@@ -1,2 +1,2 @@
 # stock-analysis
-*VBA analysis of green energy stocks
+* VBA analysis of green energy stocks
