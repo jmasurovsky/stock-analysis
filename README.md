@@ -1,7 +1,7 @@
 # stock-analysis
 * VBA analysis of green energy stocks
 
-# Kickstarting with Excel
+# Stocks Analysis with Excel VBA
 
 ## Overview of Project
 
