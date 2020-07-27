@@ -61,7 +61,7 @@ This allowed the function to process each for loop quicker than a nested for loo
 Figure 5. Original VBA script for loop 
 
 
-![img_8]()
+![img_8](https://github.com/jmasurovsky/stock-analysis/blob/master/Resources/Refactored_ForLoop.png)
 
 Figure 6. Refactored VBA script for loop 
 
