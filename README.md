@@ -65,9 +65,9 @@ Figure 5. Original VBA script for loop
 
 Figure 6. Refactored VBA script for loop 
 
-### Summary
+## Summary
 
-## Pros and Cons of Refactoring
+### Pros and Cons of Refactoring
 
 Refactoring code is the process of taking previously written code and editing it to make it more readable, clean, and understandable thus making it more efficient without changing its function and output. Refactoring is typically performed because it helps perform tasks on larger datasets, applications, and easier to find errors in the code. It is important to know when to finish refactoring code in order to focus on completing the task at hand, because refactoring code can be time consuming.
 
