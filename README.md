@@ -1,7 +1,6 @@
-# stock-analysis
-* VBA analysis of green energy stocks
-
 # Stocks Analysis with Excel VBA
+
+* VBA analysis of green energy stocks
 
 ## Overview of Project
 
@@ -54,7 +53,17 @@ Figure 3. Refactored VBA script run time for 2017
 Figure 4. Refactored VBA scirpt run time for 2018
 
 
--Add images to code and discuss difference of nesting for loops (they can lead to longer execution times) vs separating them. Creating an index?
+Execution times were faster for the refactored VBA script due to editing out the nested for loop and creating separate for loops.
+This allowed the function to process each for loop quicker than a nested for loop, which may have a longer processing time to complete its tasks. The comparison in the code can be seen below:
+
+![img_7](https://github.com/jmasurovsky/stock-analysis/blob/master/Resources/Original_nestedForLoop.png)
+
+Figure 5. Original VBA script for loop 
+
+
+![img_8]()
+
+Figure 6. Refactored VBA script for loop 
 
 ### Summary
 
